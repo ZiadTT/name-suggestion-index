@@ -19404,4 +19404,22 @@
       }
     }
   ]
+},{
+    "displayName": "Arab Bank",
+    "locationSet": {
+        "include": [
+            "eg",
+            "jo"
+        ]
+    },
+    "tags": {
+        "brand": "Arab Bank",
+        "brand:en": "Arab Bank",
+        "brand:ar": "البنك العربي",
+        "brand:wikidata": "Q2629881",
+        "name": "Arab Bank",
+        "name:en": "Arab Bank",
+        "name:ar": "البنك العربي",
+        "amenity": "bank"
+    }
 }
