@@ -19404,4 +19404,22 @@
       }
     }
   ]
+},{
+    "displayName": "Al Ahli Bank of Kuwait",
+    "locationSet": {
+        "include": [
+            "eg",
+            "kw"
+        ]
+    },
+    "tags": {
+        "brand": "Al Ahli Bank of Kuwait",
+        "brand:en": "Al Ahli Bank of Kuwait",
+        "brand:ar": "البنك الأهلي الكويتي",
+        "brand:wikidata": "Q12184633",
+        "name": "Al Ahli Bank of Kuwait",
+        "name:en": "Al Ahli Bank of Kuwait",
+        "name:ar": "البنك الأهلي الكويتي",
+        "amenity": "bank"
+    }
 }
