@@ -1680,4 +1680,21 @@
       }
     }
   ]
+},{
+    "displayName": "Shell",
+    "locationSet": {
+        "include": [
+            "eg"
+        ]
+    },
+    "tags": {
+        "brand": "Shell",
+        "brand:en": "Shell",
+        "brand:ar": "شل",
+        "brand:wikidata": "Q110282959",
+        "name": "Shell",
+        "name:en": "Shell",
+        "name:ar": "شل",
+        "shop": "car_repair"
+    }
 }
