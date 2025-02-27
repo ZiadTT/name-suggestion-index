@@ -10443,4 +10443,21 @@
       }
     }
   ]
+},{
+    "displayName": "Arabiata",
+    "locationSet": {
+        "include": [
+            "eg"
+        ]
+    },
+    "tags": {
+        "brand": "Arabiata",
+        "brand:en": "Arabiata",
+        "brand:ar": "أرابياتا",
+        "brand:wikidata": "Q132775042",
+        "name": "Arabiata",
+        "name:en": "Arabiata",
+        "name:ar": "أرابياتا",
+        "amenity": "restaurant"
+    }
 }
