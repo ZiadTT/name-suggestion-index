@@ -12858,6 +12858,21 @@
         "name:ja": "関西スーパー",
         "shop": "supermarket"
       }
+    },{
+    "displayName": "Верный",
+    "locationSet": {
+        "include": [
+            "ru"
+        ]
+    },
+    "tags": {
+        "brand": "Верный",
+        "brand:en": "Верный",
+        "brand:wikidata": "Q110037370",
+        "name": "Верный",
+        "name:en": "Vernyy",
+        "shop": "supermarket"
     }
+}
   ]
 }
